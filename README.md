@@ -15,7 +15,7 @@ This is a compilation of brief notes documenting my daily discoveries in various
 
 [simonw/til](https://github.com/simonw/til)
 
-[Taha Ahmed](https://github.com/taham8875/til?fbclid=IwAR0WIRNrUUmViq77JJseTmdoIKPp_cmS9AYhKHAZsqpRgrI_5OYng8_Z0rk)
+[TahaAhmed/til](https://github.com/taham8875/til?fbclid=IwAR0WIRNrUUmViq77JJseTmdoIKPp_cmS9AYhKHAZsqpRgrI_5OYng8_Z0rk)
 
 ## Todo
 
